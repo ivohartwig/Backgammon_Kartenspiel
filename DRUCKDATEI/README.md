@@ -1,1 +1,1 @@
-# Backgammon_Kartenspiel
+# Hier findest du die Druckdatei und die dazugehörige PDF zum Downloaden.
